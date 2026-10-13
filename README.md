@@ -1,5 +1,7 @@
 # Sales performance and profit analysis dashboard
 
+**Live demo:** https://prasanna-sales-dashboard.streamlit.app
+
 Interactive Streamlit dashboard that shows where a retail company makes money and where it loses it.
 Built on the Superstore sales dataset (10,194 order lines, 5,111 orders, $2.33M sales).
 
